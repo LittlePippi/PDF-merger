@@ -36,8 +36,10 @@ The script will generate a new file named `00_mergedpdf.pdf` in the same folder 
 
 
 ### Example of folder
+```
 PDFMerger/
 ├── merge.py
 ├── 01_cover.pdf
 ├── 02_intro.pdf
 └── 03_report.pdf
+```
